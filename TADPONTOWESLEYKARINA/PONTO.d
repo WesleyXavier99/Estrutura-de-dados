@@ -1,0 +1,1 @@
+PONTO.o PONTO.d : PONTO.c PONTO.h
